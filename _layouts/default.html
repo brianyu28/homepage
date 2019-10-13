@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+  {%- include head.html -%}
+
+  <body>
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <div class="header">
+          <img class="profile" src="/assets/profile.png">
+          <h1 class="profile-name">Brian Yu</h1>
+
+          <div class="pure-menu pure-menu-horizontal pure-menu-scrollable">
+              <ul class="pure-menu-list">
+                  {% for page in site.data.navigation %}
+                    <li class="pure-menu-item"><a href="{{ page.link }}" class="pure-menu-link">{{ page.name }}</a></li>
+                  {% endfor %}
+              </ul>
+          </div>
+        </div>
+
+        <div class="content">
+          {{ content }}
+        </div>
+
+      </div>
+    </main>
+  </body>
+
+</html>

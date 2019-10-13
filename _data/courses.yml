@@ -1,0 +1,87 @@
+- name: "CSCI E-33a: Web Programming with Python and JavaScript"
+  role: Instructor
+  school: Harvard Extension School
+  term: Spring 2019
+  url: https://cs50.harvard.edu/extension/web/2019/fall
+
+- name: "CS50: Introduction to Computer Science"
+  role: Preceptor
+  school: Harvard College
+  term: Fall 2019
+  url: https://cs50.harvard.edu/college/2019/fall/
+
+- name: "CSCI S-33a: Web Programming with Python and JavaScript"
+  role: Instructor
+  school: Harvard Summer School
+  term: Summer 2019
+  url: https://cs50.harvard.edu/summer/web/2019/
+
+- name: "Computer Science P-14300: Web Programming with Python and JavaScript"
+  role: Preceptor
+  school: Harvard Summer School
+  term: Summer 2019
+
+- name: "CS124: Data Structures and Algorithms"
+  role: Teaching Fellow
+  school: Harvard College
+  term: Spring 2019
+
+- name: "CS51: Abstraction and Design in Computation"
+  role: Teaching Fellow
+  school: Harvard College
+  term: Spring 2019
+
+- name: "CS50 Beyond"
+  role: Instructor
+  school: Harvard College Winter Session
+  term: Winter 2019
+
+- name: "CS50: Introduction to Computer Science"
+  role: Head Teaching Fellow
+  school: Harvard College
+  term: Fall 2018
+
+- name: "CS100: Software Engineering in the Arts and Humanities"
+  role: Head Teaching Fellow
+  school: Harvard College
+  term: Fall 2018
+
+- name: "CSCI E-33a: Web Programming with Python and JavaScript"
+  role: Instructor
+  school: Harvard Extension School
+  term: Spring 2018
+
+- name: "CS20: Discrete Mathematics for Computer Science"
+  role: Teaching Fellow
+  school: Harvard College
+  term: Spring 2018
+
+- name: "CS50: Introduction to Computer Science I"
+  role: Head Course Assistant
+  school: Harvard College
+  term: Fall 2017
+
+- name: "Computer Science P-14300: Introduction to Web Programming"
+  role: Teaching Fellow
+  school: Harvard Summer School
+  term: Summer 2017 
+
+- name: "CS51: Abstraction and Design in Computation"
+  role: Teaching Fellow
+  school: Harvard College
+  term: Spring 2017
+
+- name: "CSCI E-50: Intensive Introduction to Computer Science"
+  role: Course Assistant
+  school: Harvard Extension School
+  term: Spring 2017
+
+- name: "CS50: Introduction to Computer Science I"
+  role: Teaching Fellow 
+  school: Harvard College
+  term: Fall 2016
+
+- name: "Computer Science P-14300: Introduction to Web Programming"
+  role: Teaching Fellow
+  school: Harvard Summer School
+  term: Summer 2016

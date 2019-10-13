@@ -1,0 +1,10 @@
+title: Brian Yu
+email: brian@cs.harvard.edu
+baseurl: ""
+url: "https://brianyu.me"
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+

@@ -19,4 +19,4 @@ You can reach me at [brian@cs.harvard.edu](mailto:brian@cs.harvard.edu).
 
 * [GitHub](https://github.com/brianyu28)
 * [LinkedIn](https://www.linkedin.com/in/brian-yu/)
-* [Resume](/assets/BrianYu_Resume.pdf)
+* [Resume]({{ '/assets/BrianYu_Resume.pdf' | relative_url }})
